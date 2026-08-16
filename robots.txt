@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dangsan-room-note.go-apgujeong-nrb.xyz/sitemap.xml
+Sitemap: https://dangsan-room-note.go-apgujeong-nrb.xyz/sitemap-pages.xml
